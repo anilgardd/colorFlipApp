@@ -1,0 +1,26 @@
+
+.main{
+    color:white;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    height: 100vh;
+    
+}
+
+.colorinfo{
+    font-size: 50px;
+    border: 5px solid black;
+    padding: 20px;
+    border-radius: 15px;
+    background-color:black;
+    border : 1px solid white;
+
+}
+
+.button{
+    font-size: 25px;
+    cursor: pointer;
+    border-radius: 5px;
+}
